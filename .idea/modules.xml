@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Aplicativo_de_Sorteio.iml" filepath="$PROJECT_DIR$/.idea/modules/Aplicativo_de_Sorteio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Aplicativo_de_Sorteio.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
